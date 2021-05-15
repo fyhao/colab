@@ -1,1002 +1,348 @@
-
 datetime,city,temp,text
-2021-05-15 14:24:35,Silobela,-18,
-2021-05-15 14:24:34,Ndola,14,Sunny
-2021-05-15 14:24:33,Ghorib,-18,
-2021-05-15 14:24:32,Ram Allah,18,Sunny
-2021-05-15 14:24:31,Gia Lai,31,Showers
-2021-05-15 14:24:30,Caicara del Orinoco,26,Cloudy
-2021-05-15 14:24:29,Luganville,27,Thunderstorms
-2021-05-15 14:24:28,Navoi,26,Sunny
-2021-05-15 14:24:27,La Paloma,7,Mostly Clear
-2021-05-15 14:24:26,Moffat,7,Mostly Cloudy
-2021-05-15 14:24:25,Lorimers,27,Mostly Clear
-2021-05-15 14:24:24,Georgetown,-18,
-2021-05-15 14:24:23,Windy Hill,26,Breezy
-2021-05-15 14:24:22,Baldrine,9,Showers
-2021-05-15 14:24:21,Gibraltar,16,Clear
-2021-05-15 14:24:20,Port Howard,-18,
-2021-05-15 14:24:19,Duval,11,Windy
-2021-05-15 14:24:18,Bodden Town,28,Mostly Clear
-2021-05-15 14:24:17,Anderson,26,Breezy
-2021-05-15 14:24:16,Hinson Hall,21,Windy
-2021-05-15 14:24:15,Crocus Hill,26,Breezy
-2021-05-15 14:24:14,Al Hujaymah,33,Sunny
-2021-05-15 14:24:13,Kirovohrad,16,Sunny
-2021-05-15 14:24:12,Nabiswera,-18,
-2021-05-15 14:24:11,Norton,16,Rain
-2021-05-15 14:24:10,Kayseri,17,Sunny
-2021-05-15 14:24:09,Al Qasr,19,Partly Cloudy
-2021-05-15 14:24:08,Valencia,24,Partly Cloudy
-2021-05-15 14:24:07,Sotouboua,23,Partly Cloudy
-2021-05-15 14:24:06,Same,-18,
-2021-05-15 14:24:05,Bung Sam Phan,33,Thunderstorms
-2021-05-15 14:24:04,Nkonko,-18,
-2021-05-15 14:24:03,Karategin,22,Sunny
-2021-05-15 14:24:02,Xinyi Township,28,Mostly Sunny
-2021-05-15 14:24:01,Soukhne,-18,
-2021-05-15 14:24:00,Sachseln,2,Cloudy
-2021-05-15 14:23:59,Herrang,8,Showers
-2021-05-15 14:23:58,Stonehoekoe,-18,
-2021-05-15 14:23:57,Al Ubayyid,28,Sunny
-2021-05-15 14:23:56,Matale,27,Mostly Cloudy
-2021-05-15 14:23:55,Madrid,11,Mostly Cloudy
-2021-05-15 14:23:54,Bor,26,Partly Cloudy
-2021-05-15 14:23:53,De Aar,11,Mostly Clear
-2021-05-15 14:23:52,Ceel Dheere,-18,
-2021-05-15 14:23:51,Isuisu,-18,
-2021-05-15 14:23:50,Zagorje Ob Savi,8,Cloudy
-2021-05-15 14:23:49,Lom nad Rimavicou,8,Mostly Cloudy
 2021-05-15 14:23:48,Singapore,29,Thunderstorms
-2021-05-15 14:23:47,Yele,-18,
-2021-05-15 14:23:46,Victoria,28,Breezy
-2021-05-15 14:23:45,Botunje,13,Mostly Cloudy
-2021-05-15 14:23:44,Koumpenntoum,-18,
-2021-05-15 14:23:43,Al Hassat,31,Sunny
-2021-05-15 14:23:42,Sao Tome,26,Partly Cloudy
-2021-05-15 14:23:41,Borgo Maggiore,11,Mostly Sunny
-2021-05-15 14:23:40,Safotulafai,-18,
-2021-05-15 14:23:39,Port Elizabeth,27,Breezy
-2021-05-15 14:23:38,Floissac,26,Mostly Clear
-2021-05-15 14:23:37,Tabernacle,25,Partly Cloudy
-2021-05-15 14:23:36,Kibanza,17,Mostly Cloudy
-2021-05-15 14:23:35,Tura,2,Cloudy
-2021-05-15 14:23:34,Valeni,11,Mostly Sunny
-2021-05-15 14:23:33,Al Wabra,34,Sunny
-2021-05-15 14:23:32,Bemposta,12,Cloudy
-2021-05-15 14:23:31,Parzeczew,10,Mostly Cloudy
-2021-05-15 14:23:30,Corcuera,29,Thunderstorms
-2021-05-15 14:23:29,Puerto Inca,-18,
-2021-05-15 14:23:28,Pozo Colorado,-18,
-2021-05-15 14:23:27,Mendi,-18,
-2021-05-15 14:23:26,El Quije,26,Cloudy
-2021-05-15 14:23:25,Kohlu,-18,
-2021-05-15 14:23:24,Hayma',31,Sunny
-2021-05-15 14:23:23,Geilo,6,Showers
-2021-05-15 14:23:22,Izvor,13,Showers
-2021-05-15 14:23:21,Akwanga,-18,
-2021-05-15 14:23:20,Tchighozerine,-18,
-2021-05-15 14:23:19,Rio Blanco,22,Mostly Cloudy
-2021-05-15 14:23:18,Paraparaumu,14,Mostly Sunny
-2021-05-15 14:23:17,Soesterberg,8,Mostly Cloudy
-2021-05-15 14:23:16,Trial,26,Showers
-2021-05-15 14:23:15,Bonavista,27,Breezy
-2021-05-15 14:23:14,Guatemala,27,Breezy
-2021-05-15 14:23:13,Shabiruri,27,Breezy
-2021-05-15 14:23:12,Pokhara,23,Mostly Sunny
-2021-05-15 14:23:11,Wyoming,-18,
-2021-05-15 14:23:10,Beira,21,Sunny
-2021-05-15 14:23:09,El Kelaa des Sraghna,16,Clear
-2021-05-15 14:23:08,Mateuevo,7,Rain
-2021-05-15 14:23:07,Arvaikher,13,Partly Cloudy
-2021-05-15 14:23:06,Monaco,9,Cloudy
-2021-05-15 14:23:05,Tsibirika,16,Mostly Cloudy
-2021-05-15 14:23:04,,-18,
-2021-05-15 14:23:03,Villa de Cos,16,Partly Cloudy
-2021-05-15 14:23:02,Curepipe (2),23,Breezy
-2021-05-15 14:23:01,Ouadane,-18,
-2021-05-15 14:23:00,Airok Airport,27,Showers
-2021-05-15 14:22:59,Mosta,17,Breezy
-2021-05-15 14:22:58,Ti-n-Fata,-18,
-2021-05-15 14:22:57,Magoodhoo,28,Thunderstorms
-2021-05-15 14:22:56,Padang Tengku,31,Thunderstorms
-2021-05-15 14:22:55,Ntchisi,-18,
-2021-05-15 14:22:54,Miarinarivo,17,Mostly Cloudy
-2021-05-15 14:22:53,,-18,
-2021-05-15 14:22:52,Donnange,7,Cloudy
-2021-05-15 14:22:51,Labunava,10,Cloudy
-2021-05-15 14:22:50,Triesenberg,4,Mostly Cloudy
-2021-05-15 14:22:49,,-18,
-2021-05-15 14:22:48,Rebbo,23,Cloudy
-2021-05-15 14:22:47,Mants'onyane,-18,
-2021-05-15 14:22:46,At Tuwaytah,18,Sunny
-2021-05-15 14:22:45,Myza Turkalnes,13,Partly Cloudy
-2021-05-15 14:22:44,Louangphrabang,34,Partly Cloudy
-2021-05-15 14:22:43,Baetov,-18,
-2021-05-15 14:22:42,Jahra,36,Sunny
-2021-05-15 14:22:41,Komorane,9,Cloudy
-2021-05-15 14:22:40,Muju-Gun,24,Cloudy
-2021-05-15 14:22:39,Embu,18,Mostly Cloudy
-2021-05-15 14:22:38,Zhezqazghan,21,Sunny
-2021-05-15 14:22:37,Al Qatranah,18,Sunny
-2021-05-15 14:22:36,Nagawa-machi,18,Showers
-2021-05-15 14:22:35,Kupuis,21,Mostly Clear
-2021-05-15 14:22:34,Rome,9,Sunny
-2021-05-15 14:22:33,Qevu'a,18,Sunny
-2021-05-15 14:22:32,Coolfin Glebe,7,Showers
-2021-05-15 14:22:31,Al Fallojah,31,Sunny
-2021-05-15 14:22:30,Yazd,22,Mostly Cloudy
-2021-05-15 14:22:29,Kurun,29,Thunderstorms
-2021-05-15 14:22:28,Samudrapur,37,Partly Cloudy
-2021-05-15 14:22:27,Saudarkrokr,-18,
-2021-05-15 14:22:26,Pusztavacs,11,Mostly Cloudy
-2021-05-15 14:22:25,Gualaco,18,Mostly Clear
-2021-05-15 14:22:24,Vatican City,9,Sunny
-2021-05-15 14:22:23,Saint-Marc,26,Scattered Thunderstorms
-2021-05-15 14:22:22,Post Arinda,-18,
-2021-05-15 14:22:21,Fulacunda,25,Mostly Clear
-2021-05-15 14:22:20,Kankan,25,Mostly Cloudy
-2021-05-15 14:22:19,Chisec,23,Cloudy
-2021-05-15 14:22:18,Plaisance Land Settlement,26,Mostly Clear
-2021-05-15 14:22:17,Platania,8,Showers
-2021-05-15 14:22:16,Atebubu,24,Mostly Clear
-2021-05-15 14:22:15,Oberdorla,8,Mostly Cloudy
-2021-05-15 14:22:14,Sareki,19,Partly Cloudy
-2021-05-15 14:22:13,Bureng,-18,
-2021-05-15 14:22:12,Ancien Matica,-18,
-2021-05-15 14:22:11,La Celle-sous-Gouzon,8,Showers
-2021-05-15 14:22:10,Mata Utu,28,Thunderstorms
-2021-05-15 14:22:09,St. Peter,26,Breezy
-2021-05-15 14:22:08,Saint-Pierre,4,Mostly Clear
-2021-05-15 14:22:07,Lurin,26,Showers
-2021-05-15 14:22:06,Cilaos,19,Mostly Sunny
-2021-05-15 14:22:05,Tieti,25,Showers
-2021-05-15 14:22:04,Mamoudzou,27,Breezy
-2021-05-15 14:22:03,Bois du Parc,24,Partly Cloudy
-2021-05-15 14:22:02,Baie-Mahault,24,Partly Cloudy
-2021-05-15 14:22:01,,-18,
-2021-05-15 14:22:00,Saul,-18,
-2021-05-15 14:21:59,Oittila,12,Partly Cloudy
-2021-05-15 14:21:58,Vunidawa,24,Scattered Thunderstorms
-2021-05-15 14:21:57,Asbe Teferi,-18,
-2021-05-15 14:21:56,Manzini,14,Sunny
-2021-05-15 14:21:55,Parnu,13,Partly Cloudy
-2021-05-15 14:21:54,Arafali,-18,
-2021-05-15 14:21:53,Evinayong,-18,
-2021-05-15 14:21:52,Ilobasco,24,Cloudy
-2021-05-15 14:21:51,Bawiti,22,Sunny
-2021-05-15 14:21:50,Huamboya,9,Mostly Cloudy
-2021-05-15 14:21:49,Monte Plata,23,Clear
-2021-05-15 14:21:48,St. Joseph,25,Mostly Clear
-2021-05-15 14:21:47,Randa,33,Partly Cloudy
-2021-05-15 14:21:46,,-18,
-2021-05-15 14:21:45,Ans By,8,Cloudy
-2021-05-15 14:21:44,Umanak,-2,Cloudy
-2021-05-15 14:21:43,Husevig,6,Windy
-2021-05-15 14:21:42,Golcuv Jenikov,8,Mostly Cloudy
-2021-05-15 14:21:41,Ayios Sozomenos,21,Sunny
-2021-05-15 14:21:40,Altagracia,-18,
-2021-05-15 14:21:39,Jezerine,6,Cloudy
-2021-05-15 14:21:38,Ando,24,Cloudy
-2021-05-15 14:21:37,Paraiso,16,Cloudy
-2021-05-15 14:21:36,Bokila,22,Mostly Cloudy
-2021-05-15 14:21:35,Omekingo,-18,
-2021-05-15 14:21:34,Moroni,24,Partly Cloudy
-2021-05-15 14:21:33,252257,12,Cloudy
-2021-05-15 14:21:32,Yiwu,32,Thunderstorms
-2021-05-15 14:21:31,Chuxiong,27,Breezy
-2021-05-15 14:21:30,Yuli,18,Partly Cloudy
-2021-05-15 14:21:28,Qajortebu,-18,
-2021-05-15 14:21:27,Hangu,16,Breezy
-2021-05-15 14:21:26,Lingguan,17,Cloudy
-2021-05-15 14:21:25,Qingxu,17,Showers
-2021-05-15 14:21:24,Shanghai,33,Thunderstorms
-2021-05-15 14:21:23,Boshan,19,Cloudy
-2021-05-15 14:21:22,Tongchuan,17,Cloudy
-2021-05-15 14:21:21,Xarag,-18,
-2021-05-15 14:21:20,Tongxin,9,Breezy
-2021-05-15 14:21:19,Taipa,32,Thunderstorms
-2021-05-15 14:21:18,Liaozhong,13,Cloudy
-2021-05-15 14:21:17,Kouqian,13,Showers
-2021-05-15 14:21:16,Le'an,32,Breezy
-2021-05-15 14:21:15,Gaoyou,25,Thunderstorms
-2021-05-15 14:21:14,Mandalt,-18,
-2021-05-15 14:21:13,Lianyuan,34,Thunderstorms
-2021-05-15 14:21:12,Jingmen,23,Cloudy
-2021-05-15 14:21:11,North Point Promenade,31,Mostly Sunny
-2021-05-15 14:21:10,Gaocheng,18,Breezy
-2021-05-15 14:21:09,Bei'an,18,Breezy
-2021-05-15 14:21:08,Cho,18,Breezy
-2021-05-15 14:21:07,Yinggen,33,Partly Cloudy
-2021-05-15 14:21:06,Guiyang,28,Breezy
-2021-05-15 14:21:05,Xincheng,33,Thunderstorms
-2021-05-15 14:21:04,Guangzhou,35,Partly Cloudy
-2021-05-15 14:21:03,Yuzhong,7,Showers
-2021-05-15 14:21:02,Youxi,34,Sunny
-2021-05-15 14:21:01,Fengdu,23,Scattered Thunderstorms
-2021-05-15 14:20:59,Nankou,17,Cloudy
-2021-05-15 14:20:58,Hefei,23,Thunderstorms
-2021-05-15 14:20:58,Yerbas Buenas,9,Cloudy
-2021-05-15 14:20:57,Kouba Olanga,-18,
-2021-05-15 14:20:55,Yangalia,-18,
-2021-05-15 14:20:54,Yukon Territory,-18,
-2021-05-15 14:20:53,Leask No 464,10,Partly Cloudy
-2021-05-15 14:20:52,Baie-James,-18,
-2021-05-15 14:20:50,Queens,3,Mostly Clear
-2021-05-15 14:20:49,Thunder Bay,-18,
-2021-05-15 14:20:49,Nunavut,-18,
-2021-05-15 14:20:47,Bedford,6,Clear
-2021-05-15 14:20:46,Northwest Territories,-18,
-2021-05-15 14:20:45,Newfoundland and Labrador,-18,
-2021-05-15 14:20:44,Miramichi,5,Clear
-2021-05-15 14:20:44,Manitoba,-18,
-2021-05-15 14:20:42,,-18,
-2021-05-15 14:20:41,,-18,
-2021-05-15 14:20:40,Bulkley-Nechako,-18,
-2021-05-15 14:20:40,Yellowhead County,9,Partly Cloudy
-2021-05-15 14:20:39,Yaounde,20,Showers
-2021-05-15 14:20:38,Phnom Penh,32,Thunderstorms
-2021-05-15 14:20:37,Santa Maria,22,Breezy
-2021-05-15 14:20:35,Colline Mugutu,16,Cloudy
-2021-05-15 14:20:34,Sagaing,35,Sunny
-2021-05-15 14:20:33,Zone de la Patte d'Oie,30,Partly Cloudy
-2021-05-15 14:20:32,Durzhaven,13,Mostly Cloudy
-2021-05-15 14:20:32,Kampong Rambai,29,Thunderstorms
-2021-05-15 14:20:30,78638,-18,
-2021-05-15 14:20:29,,-18,
-2021-05-15 14:20:28,Voljevac,6,Rain
-2021-05-15 14:20:27,Cuatro Ojos,-18,
-2021-05-15 14:20:27,Nab Chote,14,Partly Cloudy
-2021-05-15 14:20:26,Sanson,24,Clear
-2021-05-15 14:20:24,Churchyard,23,Mostly Cloudy
-2021-05-15 14:20:24,Brussels,8,Cloudy
-2021-05-15 14:20:22,Minsk,14,Mostly Cloudy
-2021-05-15 14:20:21,Bathsheba,26,Breezy
-2021-05-15 14:20:21,Dhaka,33,Thunderstorms
-2021-05-15 14:20:20,Ar Rifa,32,Sunny
-2021-05-15 14:20:18,New Town,26,Scattered Showers
-2021-05-15 14:20:17,Zardob,23,Sunny
-2021-05-15 14:20:16,Gaishorn,6,Cloudy
-2021-05-15 14:20:16,Perth,20,Cloudy
-2021-05-15 14:20:14,Melbourne,12,Breezy
-2021-05-15 14:20:13,Hobart,9,Partly Cloudy
-2021-05-15 14:20:13,Adelaide,16,Mostly Cloudy
-2021-05-15 14:20:11,Brisbane,22,Sunny
-2021-05-15 14:20:10,Darwin,31,Sunny
 2021-05-15 14:20:09,Sydney,16,Breezy
-2021-05-15 14:20:08,Queanbeyan,11,Mostly Sunny
-2021-05-15 14:20:07,T'azagyugh,11,Sunny
-2021-05-15 14:20:06,La Adela,12,Cloudy
-2021-05-15 14:20:05,Renfrew,26,Mostly Clear
-2021-05-15 14:20:04,Calunga,-18,
-2021-05-15 14:20:03,Andorra la Vella,2,Cloudy
-2021-05-15 14:20:02,Adrar,27,Breezy
-2021-05-15 14:20:01,Ljabinoti sipermi,12,Showers
-2021-05-15 14:20:01,Qaleh-ye Khan,9,Sunny
 2021-05-15 14:10:31,Singapore,29,Thunderstorms
-2021-05-15 11:24:36,Silobela,-18,
-2021-05-15 11:24:35,Ndola,12,Clear
-2021-05-15 11:24:34,Ghorib,-18,
-2021-05-15 11:24:32,Ram Allah,13,Clear
-2021-05-15 11:24:31,Gia Lai,27,Cloudy
-2021-05-15 11:24:30,Caicara del Orinoco,27,Cloudy
-2021-05-15 11:24:30,Luganville,27,Thunderstorms
-2021-05-15 11:24:29,Navoi,19,Sunny
-2021-05-15 11:24:27,La Paloma,8,Partly Cloudy
-2021-05-15 11:24:26,Moffat,6,Mostly Cloudy
-2021-05-15 11:24:25,Lorimers,27,Mostly Clear
-2021-05-15 11:24:24,Georgetown,-18,
-2021-05-15 11:24:23,Windy Hill,26,Breezy
-2021-05-15 11:24:23,Baldrine,8,Cloudy
-2021-05-15 11:24:21,Gibraltar,16,Mostly Clear
-2021-05-15 11:24:20,Port Howard,-18,
-2021-05-15 11:24:20,Duval,10,Showers
-2021-05-15 11:24:18,Bodden Town,28,Mostly Clear
-2021-05-15 11:24:17,Anderson,26,Breezy
-2021-05-15 11:24:17,Hinson Hall,21,Windy
-2021-05-15 11:24:15,Crocus Hill,27,Breezy
-2021-05-15 11:24:14,Al Hujaymah,25,Sunny
-2021-05-15 11:24:14,Kirovohrad,12,Clear
-2021-05-15 11:24:12,Nabiswera,-18,
-2021-05-15 11:24:11,Norton,18,Mostly Cloudy
-2021-05-15 11:24:11,Kayseri,8,Clear
-2021-05-15 11:24:09,Al Qasr,20,Clear
-2021-05-15 11:24:08,Valencia,24,Partly Cloudy
-2021-05-15 11:24:07,Sotouboua,24,Mostly Clear
-2021-05-15 11:24:06,Same,-18,
-2021-05-15 11:24:06,Bung Sam Phan,31,Partly Cloudy
-2021-05-15 11:24:04,Nkonko,-18,
-2021-05-15 11:24:04,Karategin,16,Sunny
-2021-05-15 11:24:02,Xinyi Township,27,Partly Cloudy
-2021-05-15 11:24:02,Soukhne,-18,
-2021-05-15 11:24:00,Sachseln,2,Partly Cloudy
-2021-05-15 11:23:59,Herrang,7,Mostly Cloudy
-2021-05-15 11:23:58,Stonehoekoe,-18,
-2021-05-15 11:23:57,Al Ubayyid,24,Clear
-2021-05-15 11:23:56,Matale,24,Mostly Cloudy
-2021-05-15 11:23:55,Madrid,13,Mostly Cloudy
-2021-05-15 11:23:55,Bor,24,Partly Cloudy
-2021-05-15 11:23:53,De Aar,12,Partly Cloudy
-2021-05-15 11:23:52,Ceel Dheere,-18,
-2021-05-15 11:23:52,Isuisu,-18,
-2021-05-15 11:23:50,Zagorje Ob Savi,8,Cloudy
-2021-05-15 11:23:50,Lom nad Rimavicou,6,Partly Cloudy
 2021-05-15 11:23:48,Singapore,28,Scattered Thunderstorms
-2021-05-15 11:23:47,Yele,-18,
-2021-05-15 11:23:46,Victoria,28,Breezy
-2021-05-15 11:23:45,Botunje,11,Mostly Cloudy
-2021-05-15 11:23:44,Koumpenntoum,-18,
-2021-05-15 11:23:43,Al Hassat,26,Clear
-2021-05-15 11:23:42,Sao Tome,27,Partly Cloudy
-2021-05-15 11:23:41,Borgo Maggiore,9,Partly Cloudy
-2021-05-15 11:23:40,Safotulafai,-18,
-2021-05-15 11:23:39,Port Elizabeth,27,Breezy
-2021-05-15 11:23:38,Floissac,26,Showers
-2021-05-15 11:23:37,Tabernacle,26,Breezy
-2021-05-15 11:23:37,Kibanza,16,Mostly Cloudy
-2021-05-15 11:23:35,Tura,1,Cloudy
-2021-05-15 11:23:34,Valeni,8,Partly Cloudy
-2021-05-15 11:23:33,Al Wabra,27,Sunny
-2021-05-15 11:23:32,Bemposta,12,Partly Cloudy
-2021-05-15 11:23:31,Parzeczew,10,Mostly Cloudy
-2021-05-15 11:23:30,Corcuera,28,Thunderstorms
-2021-05-15 11:23:29,Puerto Inca,-18,
-2021-05-15 11:23:28,Pozo Colorado,-18,
-2021-05-15 11:23:27,Mendi,-18,
-2021-05-15 11:23:26,El Quije,26,Cloudy
-2021-05-15 11:23:26,Kohlu,-18,
-2021-05-15 11:23:24,Hayma',24,Sunny
-2021-05-15 11:23:23,Geilo,6,Showers
-2021-05-15 11:23:22,Izvor,11,Cloudy
-2021-05-15 11:23:21,Akwanga,-18,
-2021-05-15 11:23:20,Tchighozerine,-18,
-2021-05-15 11:23:19,Rio Blanco,24,Mostly Cloudy
-2021-05-15 11:23:18,Paraparaumu,16,Breezy
-2021-05-15 11:23:17,Soesterberg,8,Partly Cloudy
-2021-05-15 11:23:16,Trial,26,Breezy
-2021-05-15 11:23:15,Bonavista,27,Breezy
-2021-05-15 11:23:15,Guatemala,27,Breezy
-2021-05-15 11:23:13,Shabiruri,27,Breezy
-2021-05-15 11:23:12,Pokhara,19,Mostly Sunny
-2021-05-15 11:23:11,Wyoming,-18,
-2021-05-15 11:23:10,Beira,19,Clear
-2021-05-15 11:23:09,El Kelaa des Sraghna,18,Clear
-2021-05-15 11:23:08,Mateuevo,8,Rain
-2021-05-15 11:23:08,Arvaikher,10,Partly Cloudy
-2021-05-15 11:23:06,Monaco,8,Mostly Cloudy
-2021-05-15 11:23:05,Tsibirika,11,Partly Cloudy
-2021-05-15 11:23:04,,-18,
-2021-05-15 11:23:03,Villa de Cos,18,Mostly Cloudy
-2021-05-15 11:23:03,Curepipe (2),22,Mostly Clear
-2021-05-15 11:23:01,Ouadane,-18,
-2021-05-15 11:23:00,Airok Airport,27,Showers
-2021-05-15 11:22:59,Mosta,18,Breezy
-2021-05-15 11:22:58,Ti-n-Fata,-18,
-2021-05-15 11:22:57,Magoodhoo,28,Thunderstorms
-2021-05-15 11:22:56,Padang Tengku,27,Thunderstorms
-2021-05-15 11:22:56,Ntchisi,-18,
-2021-05-15 11:22:54,Miarinarivo,14,Mostly Cloudy
-2021-05-15 11:22:53,,-18,
-2021-05-15 11:22:52,Donnange,8,Cloudy
-2021-05-15 11:22:51,Labunava,9,Cloudy
-2021-05-15 11:22:50,Triesenberg,7,Rain And Snow
-2021-05-15 11:22:49,,-18,
-2021-05-15 11:22:48,Rebbo,23,Cloudy
-2021-05-15 11:22:47,Mants'onyane,-18,
-2021-05-15 11:22:46,At Tuwaytah,13,Clear
-2021-05-15 11:22:45,Myza Turkalnes,11,Partly Cloudy
-2021-05-15 11:22:44,Louangphrabang,31,Mostly Sunny
-2021-05-15 11:22:43,Baetov,-18,
-2021-05-15 11:22:42,Jahra,29,Sunny
-2021-05-15 11:22:41,Komorane,11,Cloudy
-2021-05-15 11:22:40,Muju-Gun,23,Showers
-2021-05-15 11:22:39,Embu,17,Cloudy
-2021-05-15 11:22:38,Zhezqazghan,14,Sunny
-2021-05-15 11:22:37,Al Qatranah,13,Clear
-2021-05-15 11:22:36,Nagawa-machi,18,Cloudy
-2021-05-15 11:22:35,Kupuis,23,Partly Cloudy
-2021-05-15 11:22:34,Rome,9,Mostly Clear
-2021-05-15 11:22:33,Qevu'a,14,Mostly Clear
-2021-05-15 11:22:32,Coolfin Glebe,7,Showers
-2021-05-15 11:22:31,Al Fallojah,27,Clear
-2021-05-15 11:22:30,Yazd,19,Cloudy
-2021-05-15 11:22:29,Kurun,26,Thunderstorms
-2021-05-15 11:22:28,Samudrapur,32,Partly Cloudy
-2021-05-15 11:22:27,Saudarkrokr,-18,
-2021-05-15 11:22:26,Pusztavacs,6,Partly Cloudy
-2021-05-15 11:22:25,Gualaco,21,Partly Cloudy
-2021-05-15 11:22:24,Vatican City,9,Mostly Clear
-2021-05-15 11:22:23,Saint-Marc,27,Scattered Thunderstorms
-2021-05-15 11:22:22,Post Arinda,-18,
-2021-05-15 11:22:21,Fulacunda,25,Clear
-2021-05-15 11:22:20,Kankan,26,Partly Cloudy
-2021-05-15 11:22:19,Chisec,24,Thunderstorms
-2021-05-15 11:22:18,Plaisance Land Settlement,26,Mostly Clear
-2021-05-15 11:22:17,Platania,6,Mostly Cloudy
-2021-05-15 11:22:16,Atebubu,26,Mostly Cloudy
-2021-05-15 11:22:15,Oberdorla,7,Mostly Clear
-2021-05-15 11:22:14,Sareki,15,Partly Cloudy
-2021-05-15 11:22:13,Bureng,-18,
-2021-05-15 11:22:12,Ancien Matica,-18,
-2021-05-15 11:22:11,La Celle-sous-Gouzon,8,Rain
-2021-05-15 11:22:10,Mata Utu,28,Partly Cloudy
-2021-05-15 11:22:09,St. Peter,26,Breezy
-2021-05-15 11:22:08,Saint-Pierre,4,Partly Cloudy
-2021-05-15 11:22:07,Lurin,27,Breezy
-2021-05-15 11:22:06,Cilaos,17,Mostly Clear
-2021-05-15 11:22:05,Tieti,26,Partly Cloudy
-2021-05-15 11:22:04,Mamoudzou,27,Breezy
-2021-05-15 11:22:03,Bois du Parc,25,Mostly Clear
-2021-05-15 11:22:02,Baie-Mahault,24,Partly Cloudy
-2021-05-15 11:22:01,,-18,
-2021-05-15 11:22:00,Saul,-18,
-2021-05-15 11:21:59,Oittila,8,Mostly Cloudy
-2021-05-15 11:21:58,Vunidawa,26,Thunderstorms
-2021-05-15 11:21:57,Asbe Teferi,-18,
-2021-05-15 11:21:56,Manzini,12,Clear
-2021-05-15 11:21:55,Parnu,13,Partly Cloudy
-2021-05-15 11:21:54,Arafali,-18,
-2021-05-15 11:21:53,Evinayong,-18,
-2021-05-15 11:21:52,Ilobasco,26,Thunderstorms
-2021-05-15 11:21:51,Bawiti,18,Clear
-2021-05-15 11:21:50,Huamboya,11,Mostly Cloudy
-2021-05-15 11:21:49,Monte Plata,24,Mostly Clear
-2021-05-15 11:21:48,St. Joseph,25,Mostly Clear
-2021-05-15 11:21:47,Randa,31,Partly Cloudy
-2021-05-15 11:21:46,,-18,
-2021-05-15 11:21:45,Ans By,9,Cloudy
-2021-05-15 11:21:44,Umanak,-1,Cloudy
-2021-05-15 11:21:43,Husevig,6,Windy
-2021-05-15 11:21:42,Golcuv Jenikov,7,Mostly Clear
-2021-05-15 11:21:41,Ayios Sozomenos,13,Clear
-2021-05-15 11:21:40,Altagracia,-18,
-2021-05-15 11:21:39,Jezerine,7,Cloudy
-2021-05-15 11:21:38,Ando,26,Mostly Cloudy
-2021-05-15 11:21:37,Paraiso,16,Cloudy
-2021-05-15 11:21:36,Bokila,22,Partly Cloudy
-2021-05-15 11:21:35,Omekingo,-18,
-2021-05-15 11:21:34,Moroni,23,Partly Cloudy
-2021-05-15 11:21:33,252257,13,Cloudy
-2021-05-15 11:21:32,Yiwu,30,Partly Cloudy
-2021-05-15 11:21:31,Chuxiong,22,Sunny
-2021-05-15 11:21:30,Yuli,14,Mostly Sunny
-2021-05-15 11:21:28,Qajortebu,-18,
-2021-05-15 11:21:27,Hangu,20,Breezy
-2021-05-15 11:21:26,Lingguan,18,Showers
-2021-05-15 11:21:25,Qingxu,18,Showers
-2021-05-15 11:21:24,Shanghai,31,Thunderstorms
-2021-05-15 11:21:23,Boshan,19,Cloudy
-2021-05-15 11:21:22,Tongchuan,16,Cloudy
-2021-05-15 11:21:21,Xarag,-18,
-2021-05-15 11:21:20,Tongxin,9,Rain
-2021-05-15 11:21:19,Taipa,31,Thunderstorms
-2021-05-15 11:21:18,Liaozhong,13,Showers
-2021-05-15 11:21:17,Kouqian,12,Rain
-2021-05-15 11:21:16,Le'an,31,Sunny
-2021-05-15 11:21:15,Gaoyou,24,Thunderstorms
-2021-05-15 11:21:14,Mandalt,-18,
-2021-05-15 11:21:13,Lianyuan,32,Sunny
-2021-05-15 11:21:12,Jingmen,24,Scattered Thunderstorms
-2021-05-15 11:21:11,North Point Promenade,30,Mostly Sunny
-2021-05-15 11:21:10,Gaocheng,18,Cloudy
-2021-05-15 11:21:09,Bei'an,16,Mostly Sunny
-2021-05-15 11:21:08,Cho,21,Breezy
-2021-05-15 11:21:07,Yinggen,31,Mostly Sunny
-2021-05-15 11:21:06,Guiyang,26,Breezy
-2021-05-15 11:21:05,Xincheng,29,Thunderstorms
-2021-05-15 11:21:04,Guangzhou,32,Scattered Thunderstorms
-2021-05-15 11:21:03,Yuzhong,7,Rain
-2021-05-15 11:21:02,Youxi,30,Mostly Sunny
-2021-05-15 11:21:01,Fengdu,25,Thunderstorms
-2021-05-15 11:21:00,Nankou,18,Showers
-2021-05-15 11:20:59,Hefei,22,Thunderstorms
-2021-05-15 11:20:58,Yerbas Buenas,9,Cloudy
-2021-05-15 11:20:57,Kouba Olanga,-18,
-2021-05-15 11:20:56,Yangalia,-18,
-2021-05-15 11:20:55,Yukon Territory,-18,
-2021-05-15 11:20:54,Leask No 464,14,Partly Cloudy
-2021-05-15 11:20:52,Baie-James,-18,
-2021-05-15 11:20:51,Queens,3,Mostly Clear
-2021-05-15 11:20:50,Thunder Bay,-18,
-2021-05-15 11:20:49,Nunavut,-18,
-2021-05-15 11:20:48,Bedford,8,Clear
-2021-05-15 11:20:47,Northwest Territories,-18,
-2021-05-15 11:20:46,Newfoundland and Labrador,-18,
-2021-05-15 11:20:45,Miramichi,6,Mostly Clear
-2021-05-15 11:20:44,Manitoba,-18,
-2021-05-15 11:20:43,,-18,
-2021-05-15 11:20:42,,-18,
-2021-05-15 11:20:41,Bulkley-Nechako,-18,
-2021-05-15 11:20:40,Yellowhead County,13,Partly Cloudy
-2021-05-15 11:20:39,Yaounde,21,Showers
-2021-05-15 11:20:38,Phnom Penh,29,Thunderstorms
-2021-05-15 11:20:37,Santa Maria,22,Breezy
-2021-05-15 11:20:36,Colline Mugutu,14,Mostly Cloudy
-2021-05-15 11:20:35,Sagaing,31,Sunny
-2021-05-15 11:20:34,Zone de la Patte d'Oie,32,Mostly Cloudy
-2021-05-15 11:20:33,Durzhaven,8,Mostly Cloudy
-2021-05-15 11:20:32,Kampong Rambai,27,Scattered Thunderstorms
-2021-05-15 11:20:31,78638,-18,
-2021-05-15 11:20:30,,-18,
-2021-05-15 11:20:29,Voljevac,8,Cloudy
-2021-05-15 11:20:28,Cuatro Ojos,-18,
-2021-05-15 11:20:27,Nab Chote,11,Mostly Cloudy
-2021-05-15 11:20:26,Sanson,26,Clear
-2021-05-15 11:20:25,Churchyard,25,Partly Cloudy
-2021-05-15 11:20:24,Brussels,8,Cloudy
-2021-05-15 11:20:23,Minsk,11,Mostly Cloudy
-2021-05-15 11:20:22,Bathsheba,26,Breezy
-2021-05-15 11:20:21,Dhaka,29,Thunderstorms
-2021-05-15 11:20:20,Ar Rifa,29,Sunny
-2021-05-15 11:20:19,New Town,26,Partly Cloudy
-2021-05-15 11:20:18,Zardob,17,Sunny
-2021-05-15 11:20:17,Gaishorn,4,Showers
-2021-05-15 11:20:16,Perth,18,Cloudy
-2021-05-15 11:20:15,Melbourne,11,Showers
-2021-05-15 11:20:14,Hobart,11,Partly Cloudy
-2021-05-15 11:20:13,Adelaide,16,Cloudy
-2021-05-15 11:20:12,Brisbane,21,Sunny
-2021-05-15 11:20:11,Darwin,29,Sunny
 2021-05-15 11:20:10,Sydney,17,Mostly Cloudy
-2021-05-15 11:20:09,Queanbeyan,11,Mostly Sunny
-2021-05-15 11:20:08,T'azagyugh,8,Sunny
-2021-05-15 11:20:07,La Adela,13,Cloudy
-2021-05-15 11:20:06,Renfrew,26,Mostly Clear
-2021-05-15 11:20:05,Calunga,-18,
-2021-05-15 11:20:04,Andorra la Vella,3,Cloudy
-2021-05-15 11:20:03,Adrar,29,Partly Cloudy
-2021-05-15 11:20:02,Ljabinoti sipermi,11,Showers
-2021-05-15 11:20:02,Qaleh-ye Khan,4,Sunny
-2021-05-15 10:28:43,Lanester,12,Breezy
-2021-05-15 10:28:43,Lanester,12,Breezy
-2021-05-15 10:28:43,Lanester,12,Breezy
-2021-05-15 10:28:42,Lanester,12,Breezy
-2021-05-15 10:28:29,Lanester,12,Breezy
-2021-05-15 10:28:29,Lanester,12,Breezy
-2021-05-15 10:28:28,Lanester,12,Breezy
-2021-05-15 10:28:27,Lanester,12,Breezy
-2021-05-15 08:24:35,Silobela,-18,
-2021-05-15 08:24:34,Ndola,14,Clear
-2021-05-15 08:24:33,Ghorib,-18,
-2021-05-15 08:24:32,Ram Allah,16,Clear
-2021-05-15 08:24:31,Gia Lai,22,Mostly Cloudy
-2021-05-15 08:24:30,Caicara del Orinoco,29,Cloudy
-2021-05-15 08:24:29,Luganville,27,Partly Cloudy
-2021-05-15 08:24:28,Navoi,18,Clear
-2021-05-15 08:24:27,La Paloma,10,Partly Cloudy
-2021-05-15 08:24:26,Moffat,6,Mostly Cloudy
-2021-05-15 08:24:25,Lorimers,27,Mostly Sunny
-2021-05-15 08:24:24,Georgetown,-18,
-2021-05-15 08:24:23,Windy Hill,26,Breezy
-2021-05-15 08:24:22,Baldrine,8,Rain
-2021-05-15 08:24:21,Gibraltar,19,Clear
-2021-05-15 08:24:20,Port Howard,-18,
-2021-05-15 08:24:19,Duval,10,Showers
-2021-05-15 08:24:18,Bodden Town,28,Mostly Sunny
-2021-05-15 08:24:17,Anderson,26,Breezy
-2021-05-15 08:24:16,Hinson Hall,21,Breezy
-2021-05-15 08:24:15,Crocus Hill,27,Breezy
-2021-05-15 08:24:14,Al Hujaymah,26,Clear
-2021-05-15 08:24:13,Kirovohrad,12,Mostly Clear
-2021-05-15 08:24:12,Nabiswera,-18,
-2021-05-15 08:24:11,Norton,23,Mostly Cloudy
-2021-05-15 08:24:10,Kayseri,14,Clear
-2021-05-15 08:24:09,Al Qasr,23,Breezy
-2021-05-15 08:24:08,Valencia,24,Mostly Cloudy
-2021-05-15 08:24:07,Sotouboua,26,Partly Cloudy
-2021-05-15 08:24:06,Same,-18,
-2021-05-15 08:24:05,Bung Sam Phan,27,Partly Cloudy
-2021-05-15 08:24:04,Nkonko,-18,
-2021-05-15 08:24:03,Karategin,12,Clear
-2021-05-15 08:24:02,Xinyi Township,23,Partly Cloudy
-2021-05-15 08:24:01,Soukhne,-18,
-2021-05-15 08:24:00,Sachseln,2,Partly Cloudy
-2021-05-15 08:23:59,Herrang,9,Showers
-2021-05-15 08:23:58,Stonehoekoe,-18,
-2021-05-15 08:23:57,Al Ubayyid,28,Mostly Clear
-2021-05-15 08:23:56,Matale,23,Cloudy
-2021-05-15 08:23:55,Madrid,16,Cloudy
-2021-05-15 08:23:54,Bor,26,Mostly Cloudy
-2021-05-15 08:23:53,De Aar,14,Mostly Clear
-2021-05-15 08:23:52,Ceel Dheere,-18,
-2021-05-15 08:23:51,Isuisu,-18,
-2021-05-15 08:23:50,Zagorje Ob Savi,8,Cloudy
-2021-05-15 08:23:49,Lom nad Rimavicou,8,Cloudy
 2021-05-15 08:23:48,Singapore,27,Thunderstorms
-2021-05-15 08:23:47,Yele,-18,
-2021-05-15 08:23:46,Victoria,28,Scattered Thunderstorms
-2021-05-15 08:23:45,Botunje,13,Partly Cloudy
-2021-05-15 08:23:44,Koumpenntoum,-18,
-2021-05-15 08:23:43,Al Hassat,29,Mostly Clear
-2021-05-15 08:23:42,Sao Tome,27,Mostly Cloudy
-2021-05-15 08:23:41,Borgo Maggiore,10,Cloudy
-2021-05-15 08:23:40,Safotulafai,-18,
-2021-05-15 08:23:39,Port Elizabeth,27,Breezy
-2021-05-15 08:23:38,Floissac,26,Showers
-2021-05-15 08:23:37,Tabernacle,26,Mostly Clear
-2021-05-15 08:23:36,Kibanza,16,Mostly Cloudy
-2021-05-15 08:23:35,Tura,1,Cloudy
-2021-05-15 08:23:34,Valeni,11,Partly Cloudy
-2021-05-15 08:23:33,Al Wabra,29,Clear
-2021-05-15 08:23:32,Bemposta,14,Cloudy
-2021-05-15 08:23:31,Parzeczew,12,Mostly Cloudy
-2021-05-15 08:23:30,Corcuera,27,Thunderstorms
-2021-05-15 08:23:29,Puerto Inca,-18,
-2021-05-15 08:23:28,Pozo Colorado,-18,
-2021-05-15 08:23:27,Mendi,-18,
-2021-05-15 08:23:26,El Quije,28,Cloudy
-2021-05-15 08:23:25,Kohlu,-18,
-2021-05-15 08:23:24,Hayma',26,Clear
-2021-05-15 08:23:23,Geilo,7,Rain
-2021-05-15 08:23:22,Izvor,13,Cloudy
-2021-05-15 08:23:21,Akwanga,-18,
-2021-05-15 08:23:20,Tchighozerine,-18,
-2021-05-15 08:23:19,Rio Blanco,27,Mostly Cloudy
-2021-05-15 08:23:18,Paraparaumu,16,Breezy
-2021-05-15 08:23:17,Soesterberg,8,Partly Cloudy
-2021-05-15 08:23:16,Trial,26,Breezy
-2021-05-15 08:23:15,Bonavista,27,Breezy
-2021-05-15 08:23:14,Guatemala,27,Breezy
-2021-05-15 08:23:13,Shabiruri,27,Breezy
-2021-05-15 08:23:12,Pokhara,16,Mostly Clear
-2021-05-15 08:23:11,Wyoming,-18,
-2021-05-15 08:23:10,Beira,21,Clear
-2021-05-15 08:23:09,El Kelaa des Sraghna,20,Clear
-2021-05-15 08:23:08,Mateuevo,7,Cloudy
-2021-05-15 08:23:07,Arvaikher,-1,Partly Cloudy
-2021-05-15 08:23:06,Monaco,10,Mostly Cloudy
-2021-05-15 08:23:05,Tsibirika,12,Clear
-2021-05-15 08:23:04,,-18,
-2021-05-15 08:23:03,Villa de Cos,22,Scattered Thunderstorms
-2021-05-15 08:23:02,Curepipe (2),22,Partly Cloudy
-2021-05-15 08:23:01,Ouadane,-18,
-2021-05-15 08:23:00,Airok Airport,27,Showers
-2021-05-15 08:22:59,Mosta,18,Mostly Clear
-2021-05-15 08:22:58,Ti-n-Fata,-18,
-2021-05-15 08:22:57,Magoodhoo,29,Breezy
-2021-05-15 08:22:56,Padang Tengku,23,Cloudy
-2021-05-15 08:22:55,Ntchisi,-18,
-2021-05-15 08:22:54,Miarinarivo,15,Mostly Cloudy
-2021-05-15 08:22:53,,-18,
-2021-05-15 08:22:52,Donnange,8,Scattered Showers
-2021-05-15 08:22:51,Labunava,9,Partly Cloudy
-2021-05-15 08:22:50,Triesenberg,8,Rain
-2021-05-15 08:22:49,,-18,
-2021-05-15 08:22:48,Rebbo,24,Thunderstorms
-2021-05-15 08:22:47,Mants'onyane,-18,
-2021-05-15 08:22:46,At Tuwaytah,14,Clear
-2021-05-15 08:22:45,Myza Turkalnes,12,Mostly Cloudy
-2021-05-15 08:22:44,Louangphrabang,24,Thunderstorms
-2021-05-15 08:22:43,Baetov,-18,
-2021-05-15 08:22:42,Jahra,31,Clear
-2021-05-15 08:22:41,Komorane,11,Cloudy
-2021-05-15 08:22:40,Muju-Gun,18,Rain
-2021-05-15 08:22:39,Embu,18,Cloudy
-2021-05-15 08:22:38,Zhezqazghan,10,Clear
-2021-05-15 08:22:37,Al Qatranah,17,Clear
-2021-05-15 08:22:36,Nagawa-machi,14,Cloudy
-2021-05-15 08:22:35,Kupuis,25,Scattered Thunderstorms
-2021-05-15 08:22:34,Rome,12,Showers
-2021-05-15 08:22:33,Qevu'a,16,Mostly Clear
-2021-05-15 08:22:32,Coolfin Glebe,8,Showers
-2021-05-15 08:22:31,Al Fallojah,29,Clear
-2021-05-15 08:22:30,Yazd,19,Cloudy
-2021-05-15 08:22:29,Kurun,24,Cloudy
-2021-05-15 08:22:28,Samudrapur,30,Partly Cloudy
-2021-05-15 08:22:27,Saudarkrokr,-18,
-2021-05-15 08:22:26,Pusztavacs,8,Partly Cloudy
-2021-05-15 08:22:25,Gualaco,25,Mostly Cloudy
-2021-05-15 08:22:24,Vatican City,12,Cloudy
-2021-05-15 08:22:23,Saint-Marc,27,Partly Cloudy
-2021-05-15 08:22:22,Post Arinda,-18,
-2021-05-15 08:22:21,Fulacunda,26,Mostly Clear
-2021-05-15 08:22:20,Kankan,28,Mostly Cloudy
-2021-05-15 08:22:19,Chisec,26,Thunderstorms
-2021-05-15 08:22:18,Plaisance Land Settlement,27,Breezy
-2021-05-15 08:22:17,Platania,7,Partly Cloudy
-2021-05-15 08:22:16,Atebubu,27,Mostly Cloudy
-2021-05-15 08:22:15,Oberdorla,7,Mostly Clear
-2021-05-15 08:22:14,Sareki,16,Clear
-2021-05-15 08:22:13,Bureng,-18,
-2021-05-15 08:22:12,Ancien Matica,-18,
-2021-05-15 08:22:11,La Celle-sous-Gouzon,9,Cloudy
-2021-05-15 08:22:10,Mata Utu,28,Thunderstorms
-2021-05-15 08:22:09,St. Peter,26,Breezy
-2021-05-15 08:22:08,Saint-Pierre,4,Breezy
-2021-05-15 08:22:07,Lurin,26,Breezy
-2021-05-15 08:22:06,Cilaos,18,Mostly Clear
-2021-05-15 08:22:05,Tieti,26,Sunny
-2021-05-15 08:22:04,Mamoudzou,27,Partly Cloudy
-2021-05-15 08:22:03,Bois du Parc,26,Mostly Clear
-2021-05-15 08:22:02,Baie-Mahault,25,Showers
-2021-05-15 08:22:01,,-18,
-2021-05-15 08:22:00,Saul,-18,
-2021-05-15 08:21:59,Oittila,9,Mostly Clear
-2021-05-15 08:21:58,Vunidawa,25,Cloudy
-2021-05-15 08:21:57,Asbe Teferi,-18,
-2021-05-15 08:21:56,Manzini,13,Clear
-2021-05-15 08:21:55,Parnu,13,Partly Cloudy
-2021-05-15 08:21:54,Arafali,-18,
-2021-05-15 08:21:53,Evinayong,-18,
-2021-05-15 08:21:52,Ilobasco,28,Thunderstorms
-2021-05-15 08:21:51,Bawiti,21,Clear
-2021-05-15 08:21:50,Huamboya,12,Mostly Cloudy
-2021-05-15 08:21:49,Monte Plata,27,Mostly Sunny
-2021-05-15 08:21:48,St. Joseph,26,Partly Cloudy
-2021-05-15 08:21:47,Randa,32,Mostly Clear
-2021-05-15 08:21:46,,-18,
-2021-05-15 08:21:45,Ans By,9,Cloudy
-2021-05-15 08:21:44,Umanak,1,Cloudy
-2021-05-15 08:21:43,Husevig,6,Windy
-2021-05-15 08:21:42,Golcuv Jenikov,8,Mostly Clear
-2021-05-15 08:21:41,Ayios Sozomenos,16,Clear
-2021-05-15 08:21:40,Altagracia,-18,
-2021-05-15 08:21:39,Jezerine,6,Showers
-2021-05-15 08:21:38,Ando,27,Partly Cloudy
-2021-05-15 08:21:37,Paraiso,17,Showers
-2021-05-15 08:21:36,Bokila,23,Mostly Clear
-2021-05-15 08:21:35,Omekingo,-18,
-2021-05-15 08:21:34,Moroni,23,Partly Cloudy
-2021-05-15 08:21:33,252257,14,Cloudy
-2021-05-15 08:21:32,Yiwu,27,Thunderstorms
-2021-05-15 08:21:31,Chuxiong,16,Sunny
-2021-05-15 08:21:30,Yuli,9,Mostly Sunny
-2021-05-15 08:21:28,Qajortebu,-18,
-2021-05-15 08:21:27,Hangu,17,Cloudy
-2021-05-15 08:21:26,Lingguan,18,Rain
-2021-05-15 08:21:25,Qingxu,19,Mostly Cloudy
-2021-05-15 08:21:24,Shanghai,24,Thunderstorms
-2021-05-15 08:21:23,Boshan,19,Cloudy
-2021-05-15 08:21:22,Tongchuan,16,Cloudy
-2021-05-15 08:21:21,Xarag,-18,
-2021-05-15 08:21:20,Tongxin,10,Showers
-2021-05-15 08:21:19,Taipa,29,Thunderstorms
-2021-05-15 08:21:18,Liaozhong,16,Rain
-2021-05-15 08:21:17,Kouqian,16,Cloudy
-2021-05-15 08:21:16,Le'an,27,Mostly Sunny
-2021-05-15 08:21:15,Gaoyou,23,Thunderstorms
-2021-05-15 08:21:14,Mandalt,-18,
-2021-05-15 08:21:13,Lianyuan,27,Sunny
-2021-05-15 08:21:12,Jingmen,22,Scattered Thunderstorms
-2021-05-15 08:21:11,North Point Promenade,28,Mostly Sunny
-2021-05-15 08:21:10,Gaocheng,18,Cloudy
-2021-05-15 08:21:09,Bei'an,9,Mostly Sunny
-2021-05-15 08:21:08,Cho,17,Cloudy
-2021-05-15 08:21:07,Yinggen,26,Mostly Sunny
-2021-05-15 08:21:06,Guiyang,21,Breezy
-2021-05-15 08:21:05,Xincheng,24,Mostly Sunny
-2021-05-15 08:21:04,Guangzhou,29,Sunny
-2021-05-15 08:21:03,Yuzhong,7,Rain
-2021-05-15 08:21:02,Youxi,25,Partly Cloudy
-2021-05-15 08:21:01,Fengdu,22,Scattered Thunderstorms
-2021-05-15 08:21:00,Nankou,18,Cloudy
-2021-05-15 08:20:59,Hefei,25,Thunderstorms
-2021-05-15 08:20:58,Yerbas Buenas,11,Cloudy
-2021-05-15 08:20:57,Kouba Olanga,-18,
-2021-05-15 08:20:56,Yangalia,-18,
-2021-05-15 08:20:55,Yukon Territory,-18,
-2021-05-15 08:20:54,Leask No 464,18,Mostly Cloudy
-2021-05-15 08:20:52,Baie-James,-18,
-2021-05-15 08:20:51,Queens,6,Sunny
-2021-05-15 08:20:50,Thunder Bay,-18,
-2021-05-15 08:20:49,Nunavut,-18,
-2021-05-15 08:20:48,Bedford,12,Mostly Sunny
-2021-05-15 08:20:47,Northwest Territories,-18,
-2021-05-15 08:20:46,Newfoundland and Labrador,-18,
-2021-05-15 08:20:45,Miramichi,9,Partly Cloudy
-2021-05-15 08:20:44,Manitoba,-18,
-2021-05-15 08:20:43,,-18,
-2021-05-15 08:20:42,,-18,
-2021-05-15 08:20:41,Bulkley-Nechako,-18,
-2021-05-15 08:20:40,Yellowhead County,17,Cloudy
-2021-05-15 08:20:39,Yaounde,21,Mostly Cloudy
-2021-05-15 08:20:38,Phnom Penh,27,Thunderstorms
-2021-05-15 08:20:37,Santa Maria,22,Breezy
-2021-05-15 08:20:36,Colline Mugutu,16,Mostly Cloudy
-2021-05-15 08:20:35,Sagaing,27,Mostly Sunny
-2021-05-15 08:20:34,Zone de la Patte d'Oie,32,Mostly Cloudy
-2021-05-15 08:20:33,Durzhaven,10,Partly Cloudy
-2021-05-15 08:20:32,Kampong Rambai,25,Rain
-2021-05-15 08:20:31,78638,-18,
-2021-05-15 08:20:30,,-18,
-2021-05-15 08:20:29,Voljevac,9,Cloudy
-2021-05-15 08:20:28,Cuatro Ojos,-18,
-2021-05-15 08:20:27,Nab Chote,5,Mostly Cloudy
-2021-05-15 08:20:26,Sanson,27,Mostly Clear
-2021-05-15 08:20:25,Churchyard,27,Scattered Thunderstorms
-2021-05-15 08:20:24,Brussels,9,Partly Cloudy
-2021-05-15 08:20:23,Minsk,11,Mostly Cloudy
-2021-05-15 08:20:22,Bathsheba,26,Breezy
-2021-05-15 08:20:21,Dhaka,26,Mostly Clear
-2021-05-15 08:20:20,Ar Rifa,29,Clear
-2021-05-15 08:20:19,New Town,26,Cloudy
-2021-05-15 08:20:18,Zardob,17,Mostly Clear
-2021-05-15 08:20:17,Gaishorn,6,Showers
-2021-05-15 08:20:16,Perth,17,Cloudy
-2021-05-15 08:20:15,Melbourne,8,Showers
-2021-05-15 08:20:14,Hobart,7,Partly Cloudy
-2021-05-15 08:20:13,Adelaide,13,Partly Cloudy
-2021-05-15 08:20:12,Brisbane,17,Sunny
-2021-05-15 08:20:11,Darwin,22,Partly Cloudy
 2021-05-15 08:20:10,Sydney,16,Sunny
-2021-05-15 08:20:09,Queanbeyan,8,Partly Cloudy
-2021-05-15 08:20:08,T'azagyugh,8,Clear
-2021-05-15 08:20:07,La Adela,14,Cloudy
-2021-05-15 08:20:06,Renfrew,26,Mostly Clear
-2021-05-15 08:20:05,Calunga,-18,
-2021-05-15 08:20:04,Andorra la Vella,3,Mostly Cloudy
-2021-05-15 08:20:03,Adrar,31,Partly Cloudy
-2021-05-15 08:20:02,Qaleh-ye Khan,1,Clear
-2021-05-15 08:20:02,Ljabinoti sipermi,9,Cloudy
 2021-05-15 08:10:31,Singapore,27,Thunderstorms
-2021-05-15 05:24:35,Silobela,-18,
-2021-05-15 05:24:34,Ndola,16,Clear
-2021-05-15 05:24:33,Ghorib,-18,
-2021-05-15 05:24:32,Ram Allah,17,Clear
-2021-05-15 05:24:31,Gia Lai,21,Cloudy
-2021-05-15 05:24:30,Caicara del Orinoco,31,Mostly Cloudy
-2021-05-15 05:24:29,Luganville,25,Mostly Cloudy
-2021-05-15 05:24:28,Navoi,20,Clear
-2021-05-15 05:24:27,La Paloma,16,Sunny
-2021-05-15 05:24:26,Moffat,8,Partly Cloudy
-2021-05-15 05:24:25,Lorimers,27,Mostly Sunny
-2021-05-15 05:24:24,Georgetown,-18,
-2021-05-15 05:24:23,Windy Hill,26,Breezy
-2021-05-15 05:24:22,Baldrine,9,Mostly Cloudy
-2021-05-15 05:24:21,Gibraltar,20,Clear
-2021-05-15 05:24:20,Port Howard,-18,
-2021-05-15 05:24:19,Duval,11,Cloudy
-2021-05-15 05:24:18,Bodden Town,29,Mostly Sunny
-2021-05-15 05:24:17,Anderson,27,Breezy
-2021-05-15 05:24:16,Hinson Hall,21,Cloudy
-2021-05-15 05:24:15,Crocus Hill,27,Breezy
-2021-05-15 05:24:14,Al Hujaymah,27,Clear
-2021-05-15 05:24:13,Kirovohrad,16,Partly Cloudy
-2021-05-15 05:24:12,Nabiswera,-18,
-2021-05-15 05:24:11,Norton,21,Mostly Cloudy
-2021-05-15 05:24:10,Kayseri,17,Clear
-2021-05-15 05:24:09,Al Qasr,29,Breezy
-2021-05-15 05:24:08,Valencia,27,Partly Cloudy
-2021-05-15 05:24:07,Sotouboua,28,Mostly Clear
-2021-05-15 05:24:06,Same,-18,
-2021-05-15 05:24:05,Bung Sam Phan,27,Thunderstorms
-2021-05-15 05:24:04,Nkonko,-18,
-2021-05-15 05:24:03,Karategin,14,Clear
-2021-05-15 05:24:02,Xinyi Township,20,Partly Cloudy
-2021-05-15 05:24:01,Soukhne,-18,
-2021-05-15 05:24:00,Sachseln,4,Showers
-2021-05-15 05:23:59,Herrang,9,Cloudy
-2021-05-15 05:23:58,Stonehoekoe,-18,
-2021-05-15 05:23:57,Al Ubayyid,30,Partly Cloudy
-2021-05-15 05:23:56,Matale,23,Cloudy
-2021-05-15 05:23:55,Madrid,19,Mostly Cloudy
-2021-05-15 05:23:54,Bor,27,Mostly Cloudy
-2021-05-15 05:23:53,De Aar,16,Clear
-2021-05-15 05:23:52,Ceel Dheere,-18,
-2021-05-15 05:23:51,Isuisu,-18,
-2021-05-15 05:23:50,Zagorje Ob Savi,9,Mostly Cloudy
-2021-05-15 05:23:49,Lom nad Rimavicou,8,Cloudy
 2021-05-15 05:23:48,Singapore,27,Thunderstorms
-2021-05-15 05:23:47,Yele,-18,
-2021-05-15 05:23:46,Victoria,28,Thunderstorms
-2021-05-15 05:23:45,Botunje,15,Partly Cloudy
-2021-05-15 05:23:44,Koumpenntoum,-18,
-2021-05-15 05:23:43,Al Hassat,31,Partly Cloudy
-2021-05-15 05:23:42,Sao Tome,27,Mostly Cloudy
-2021-05-15 05:23:41,Borgo Maggiore,12,Showers
-2021-05-15 05:23:40,Safotulafai,-18,
-2021-05-15 05:23:39,Port Elizabeth,27,Breezy
-2021-05-15 05:23:38,Floissac,27,Partly Cloudy
-2021-05-15 05:23:37,Tabernacle,26,Mostly Sunny
-2021-05-15 05:23:36,Kibanza,16,Showers
-2021-05-15 05:23:35,Tura,0,Mostly Cloudy
-2021-05-15 05:23:34,Valeni,12,Mostly Cloudy
-2021-05-15 05:23:33,Al Wabra,31,Clear
-2021-05-15 05:23:32,Bemposta,16,Mostly Cloudy
-2021-05-15 05:23:31,Parzeczew,13,Mostly Cloudy
-2021-05-15 05:23:30,Corcuera,26,Thunderstorms
-2021-05-15 05:23:29,Puerto Inca,-18,
-2021-05-15 05:23:28,Pozo Colorado,-18,
-2021-05-15 05:23:27,Mendi,-18,
-2021-05-15 05:23:26,El Quije,31,Scattered Thunderstorms
-2021-05-15 05:23:25,Kohlu,-18,
-2021-05-15 05:23:24,Hayma',28,Clear
-2021-05-15 05:23:23,Geilo,8,Showers
-2021-05-15 05:23:22,Izvor,15,Mostly Cloudy
-2021-05-15 05:23:21,Akwanga,-18,
-2021-05-15 05:23:20,Tchighozerine,-18,
-2021-05-15 05:23:19,Rio Blanco,29,Showers
-2021-05-15 05:23:18,Paraparaumu,15,Breezy
-2021-05-15 05:23:17,Soesterberg,9,Partly Cloudy
-2021-05-15 05:23:16,Trial,27,Breezy
-2021-05-15 05:23:15,Bonavista,28,Breezy
-2021-05-15 05:23:14,Guatemala,27,Breezy
-2021-05-15 05:23:13,Shabiruri,27,Breezy
-2021-05-15 05:23:12,Pokhara,17,Partly Cloudy
-2021-05-15 05:23:11,Wyoming,-18,
-2021-05-15 05:23:10,Beira,22,Clear
-2021-05-15 05:23:09,El Kelaa des Sraghna,26,Mostly Sunny
-2021-05-15 05:23:08,Mateuevo,9,Cloudy
-2021-05-15 05:23:07,Arvaikher,-3,Mostly Clear
-2021-05-15 05:23:06,Monaco,13,Clear
-2021-05-15 05:23:05,Tsibirika,14,Partly Cloudy
-2021-05-15 05:23:04,,-18,
-2021-05-15 05:23:03,Villa de Cos,24,Mostly Cloudy
-2021-05-15 05:23:02,Curepipe (2),22,Breezy
-2021-05-15 05:23:01,Ouadane,-18,
-2021-05-15 05:23:00,Airok Airport,27,Showers
-2021-05-15 05:22:59,Mosta,19,Breezy
-2021-05-15 05:22:58,Ti-n-Fata,-18,
-2021-05-15 05:22:57,Magoodhoo,29,Thunderstorms
-2021-05-15 05:22:56,Padang Tengku,24,Cloudy
-2021-05-15 05:22:55,Ntchisi,-18,
-2021-05-15 05:22:54,Miarinarivo,15,Partly Cloudy
-2021-05-15 05:22:53,,-18,
-2021-05-15 05:22:52,Donnange,10,Partly Cloudy
-2021-05-15 05:22:51,Labunava,11,Partly Cloudy
-2021-05-15 05:22:50,Triesenberg,8,Cloudy
-2021-05-15 05:22:49,,-18,
-2021-05-15 05:22:48,Rebbo,24,Thunderstorms
-2021-05-15 05:22:47,Mants'onyane,-18,
-2021-05-15 05:22:46,At Tuwaytah,15,Clear
-2021-05-15 05:22:45,Myza Turkalnes,13,Partly Cloudy
-2021-05-15 05:22:44,Louangphrabang,25,Thunderstorms
-2021-05-15 05:22:43,Baetov,-18,
-2021-05-15 05:22:42,Jahra,32,Mostly Clear
-2021-05-15 05:22:41,Komorane,12,Mostly Cloudy
-2021-05-15 05:22:40,Muju-Gun,19,Showers
-2021-05-15 05:22:39,Embu,18,Cloudy
-2021-05-15 05:22:38,Zhezqazghan,13,Clear
-2021-05-15 05:22:37,Al Qatranah,19,Clear
-2021-05-15 05:22:36,Nagawa-machi,12,Cloudy
-2021-05-15 05:22:35,Kupuis,28,Showers
-2021-05-15 05:22:34,Rome,13,Showers
-2021-05-15 05:22:33,Qevu'a,17,Clear
-2021-05-15 05:22:32,Coolfin Glebe,9,Cloudy
-2021-05-15 05:22:31,Al Fallojah,32,Clear
-2021-05-15 05:22:30,Yazd,21,Mostly Cloudy
-2021-05-15 05:22:29,Kurun,24,Cloudy
-2021-05-15 05:22:28,Samudrapur,32,Partly Cloudy
-2021-05-15 05:22:27,Saudarkrokr,-18,
-2021-05-15 05:22:26,Pusztavacs,12,Mostly Cloudy
-2021-05-15 05:22:25,Gualaco,28,Mostly Cloudy
-2021-05-15 05:22:24,Vatican City,13,Cloudy
-2021-05-15 05:22:23,Saint-Marc,29,Mostly Sunny
-2021-05-15 05:22:22,Post Arinda,-18,
-2021-05-15 05:22:21,Fulacunda,27,Mostly Clear
-2021-05-15 05:22:20,Kankan,31,Partly Cloudy
-2021-05-15 05:22:19,Chisec,29,Thunderstorms
-2021-05-15 05:22:18,Plaisance Land Settlement,27,Breezy
-2021-05-15 05:22:17,Platania,9,Mostly Clear
-2021-05-15 05:22:16,Atebubu,29,Mostly Cloudy
-2021-05-15 05:22:15,Oberdorla,11,Partly Cloudy
-2021-05-15 05:22:14,Sareki,16,Clear
-2021-05-15 05:22:13,Bureng,-18,
-2021-05-15 05:22:12,Ancien Matica,-18,
-2021-05-15 05:22:11,La Celle-sous-Gouzon,10,Cloudy
-2021-05-15 05:22:10,Mata Utu,28,Scattered Thunderstorms
-2021-05-15 05:22:09,St. Peter,27,Breezy
-2021-05-15 05:22:08,Saint-Pierre,4,Breezy
-2021-05-15 05:22:07,Lurin,27,Breezy
-2021-05-15 05:22:06,Cilaos,18,Partly Cloudy
-2021-05-15 05:22:05,Tieti,23,Sunny
-2021-05-15 05:22:04,Mamoudzou,27,Cloudy
-2021-05-15 05:22:03,Bois du Parc,27,Partly Cloudy
-2021-05-15 05:22:02,Baie-Mahault,26,Partly Cloudy
-2021-05-15 05:22:01,,-18,
-2021-05-15 05:22:00,Saul,-18,
-2021-05-15 05:21:59,Oittila,12,Partly Cloudy
-2021-05-15 05:21:58,Vunidawa,24,Cloudy
-2021-05-15 05:21:57,Asbe Teferi,-18,
-2021-05-15 05:21:56,Manzini,16,Clear
-2021-05-15 05:21:55,Parnu,14,Mostly Cloudy
-2021-05-15 05:21:54,Arafali,-18,
-2021-05-15 05:21:53,Evinayong,-18,
-2021-05-15 05:21:52,Ilobasco,33,Partly Cloudy
-2021-05-15 05:21:51,Bawiti,23,Clear
-2021-05-15 05:21:50,Huamboya,15,Partly Cloudy
-2021-05-15 05:21:49,Monte Plata,31,Showers
-2021-05-15 05:21:48,St. Joseph,26,Showers
-2021-05-15 05:21:47,Randa,33,Mostly Clear
-2021-05-15 05:21:46,,-18,
-2021-05-15 05:21:45,Ans By,12,Cloudy
+2021-05-15 05:20:10,Sydney,12,Partly Cloudy
+2021-05-15 02:23:48,Singapore,27,Thunderstorms
+2021-05-15 02:20:10,Sydney,12,Clear
+2021-05-15 02:10:31,Singapore,27,Thunderstorms
+2021-05-14 23:23:48,Singapore,28,Thunderstorms
+2021-05-14 23:20:10,Sydney,12,Clear
+2021-05-14 20:23:48,Singapore,28,Cloudy
+2021-05-14 20:20:09,Sydney,14,Clear
+2021-05-14 20:10:32,Singapore,28,Thunderstorms
+2021-05-14 17:23:48,Singapore,28,Scattered Thunderstorms
+2021-05-14 17:20:10,Sydney,15,Breezy
+2021-05-14 14:23:48,Singapore,28,Scattered Thunderstorms
+2021-05-14 14:20:10,Sydney,20,Sunny
+2021-05-14 14:10:32,Singapore,28,Thunderstorms
+2021-05-14 11:23:48,Singapore,28,Scattered Thunderstorms
+2021-05-14 11:20:10,Sydney,18,Breezy
+2021-05-14 08:23:48,Singapore,27,Thunderstorms
+2021-05-14 08:20:09,Sydney,17,Breezy
+2021-05-14 08:10:32,Singapore,27,Thunderstorms
+2021-05-14 05:23:48,Singapore,27,Thunderstorms
+2021-05-14 05:20:10,Sydney,15,Clear
+2021-05-14 02:23:48,Singapore,28,Cloudy
+2021-05-14 02:20:10,Sydney,15,Clear
+2021-05-14 02:10:30,Singapore,27,Cloudy
+2021-05-13 23:23:48,Singapore,28,Thunderstorms
+2021-05-13 23:20:09,Sydney,17,Clear
+2021-05-13 20:23:48,Singapore,28,Thunderstorms
+2021-05-13 20:20:10,Sydney,18,Clear
+2021-05-13 20:10:31,Singapore,28,Thunderstorms
+2021-05-13 17:23:48,Singapore,28,Thunderstorms
+2021-05-13 17:20:10,Sydney,19,Partly Cloudy
+2021-05-13 14:23:48,Singapore,28,Thunderstorms
+2021-05-13 14:20:10,Sydney,22,Sunny
+2021-05-13 14:10:32,Singapore,29,Thunderstorms
+2021-05-13 11:23:48,Singapore,28,Cloudy
+2021-05-13 11:20:10,Sydney,22,Sunny
+2021-05-13 08:23:48,Singapore,27,Thunderstorms
+2021-05-13 08:20:10,Sydney,17,Mostly Sunny
+2021-05-13 08:10:32,Singapore,27,Thunderstorms
+2021-05-13 05:23:48,Singapore,27,Thunderstorms
+2021-05-13 05:20:09,Sydney,14,Partly Cloudy
+2021-05-13 02:23:48,Singapore,28,Thunderstorms
+2021-05-13 02:20:10,Sydney,15,Partly Cloudy
+2021-05-13 02:10:30,Singapore,27,Cloudy
+2021-05-12 23:23:48,Singapore,28,Cloudy
+2021-05-12 23:20:10,Sydney,18,Showers
+2021-05-12 20:23:48,Singapore,28,Mostly Cloudy
+2021-05-12 20:20:10,Sydney,17,Partly Cloudy
+2021-05-12 20:10:31,Singapore,28,Mostly Cloudy
+2021-05-12 17:23:48,Singapore,29,Cloudy
+2021-05-12 17:20:10,Sydney,18,Partly Cloudy
+2021-05-12 14:23:48,Singapore,28,Cloudy
+2021-05-12 14:20:10,Sydney,19,Partly Cloudy
+2021-05-12 14:10:31,Singapore,28,Thunderstorms
+2021-05-12 11:23:48,Singapore,27,Showers
+2021-05-12 11:20:09,Sydney,19,Mostly Cloudy
+2021-05-12 08:23:48,Singapore,27,Scattered Thunderstorms
+2021-05-12 08:20:09,Sydney,18,Mostly Cloudy
+2021-05-12 08:10:32,Singapore,26,Showers
+2021-05-12 05:23:48,Singapore,27,Cloudy
+2021-05-12 05:20:09,Sydney,14,Mostly Cloudy
+2021-05-12 02:23:48,Singapore,27,Thunderstorms
+2021-05-12 02:20:10,Sydney,14,Partly Cloudy
+2021-05-12 02:10:31,Singapore,27,Thunderstorms
+2021-05-11 23:23:48,Singapore,28,Cloudy
+2021-05-11 23:20:10,Sydney,16,Partly Cloudy
+2021-05-11 20:23:48,Singapore,28,Thunderstorms
+2021-05-11 20:20:09,Sydney,17,Partly Cloudy
+2021-05-11 20:10:32,Singapore,28,Thunderstorms
+2021-05-11 17:23:48,Singapore,29,Thunderstorms
+2021-05-11 17:20:09,Sydney,18,Partly Cloudy
+2021-05-11 14:23:48,Singapore,29,Thunderstorms
+2021-05-11 14:20:10,Sydney,18,Partly Cloudy
+2021-05-11 14:10:31,Singapore,29,Thunderstorms
+2021-05-11 11:23:48,Singapore,28,Thunderstorms
+2021-05-11 11:20:09,Sydney,23,Mostly Cloudy
+2021-05-11 08:23:48,Singapore,27,Thunderstorms
+2021-05-11 08:20:09,Sydney,20,Partly Cloudy
+2021-05-11 08:10:31,Singapore,27,Thunderstorms
+2021-05-11 05:23:48,Singapore,27,Thunderstorms
+2021-05-11 05:20:09,Sydney,16,Partly Cloudy
+2021-05-11 02:23:48,Singapore,28,Thunderstorms
+2021-05-11 02:20:09,Sydney,17,Cloudy
+2021-05-11 02:10:32,Singapore,28,Thunderstorms
+2021-05-10 23:23:48,Singapore,28,Thunderstorms
+2021-05-10 23:20:09,Sydney,17,Mostly Cloudy
+2021-05-10 20:23:48,Singapore,29,Mostly Sunny
+2021-05-10 20:20:09,Sydney,19,Partly Cloudy
+2021-05-10 20:10:30,Singapore,29,Thunderstorms
+2021-05-10 17:23:48,Singapore,30,Thunderstorms
+2021-05-10 17:20:09,Sydney,21,Clear
+2021-05-10 14:23:48,Singapore,30,Mostly Sunny
+2021-05-10 14:20:10,Sydney,25,Mostly Sunny
+2021-05-10 14:10:31,Singapore,30,Thunderstorms
+2021-05-10 11:23:48,Singapore,29,Mostly Sunny
+2021-05-10 11:20:09,Sydney,24,Sunny
+2021-05-10 08:23:48,Singapore,27,Partly Cloudy
+2021-05-10 08:20:09,Sydney,18,Sunny
+2021-05-10 08:10:30,Singapore,27,Partly Cloudy
+2021-05-10 05:23:48,Singapore,27,Partly Cloudy
+2021-05-10 05:20:09,Sydney,14,Clear
+2021-05-10 02:23:48,Singapore,28,Thunderstorms
+2021-05-10 02:20:09,Sydney,14,Mostly Clear
+2021-05-10 02:10:32,Singapore,27,Partly Cloudy
+2021-05-09 23:23:48,Singapore,28,Thunderstorms
+2021-05-09 23:20:09,Sydney,16,Mostly Clear
+2021-05-09 20:23:48,Singapore,28,Thunderstorms
+2021-05-09 20:20:10,Sydney,18,Partly Cloudy
+2021-05-09 20:10:31,Singapore,28,Thunderstorms
+2021-05-09 17:23:48,Singapore,29,Thunderstorms
+2021-05-09 17:20:09,Sydney,19,Mostly Cloudy
+2021-05-09 14:23:48,Singapore,28,Thunderstorms
+2021-05-09 14:20:10,Sydney,19,Mostly Cloudy
+2021-05-09 14:10:31,Singapore,29,Thunderstorms
+2021-05-09 11:23:48,Singapore,28,Thunderstorms
+2021-05-09 11:20:09,Sydney,21,Mostly Cloudy
+2021-05-09 08:23:48,Singapore,27,Mostly Cloudy
+2021-05-09 08:20:09,Sydney,19,Mostly Cloudy
+2021-05-09 08:10:31,Singapore,26,Mostly Cloudy
+2021-05-09 05:23:48,Singapore,26,Mostly Cloudy
+2021-05-09 05:20:09,Sydney,18,Cloudy
+2021-05-09 02:23:48,Singapore,27,Mostly Cloudy
+2021-05-09 02:20:09,Sydney,17,Cloudy
+2021-05-09 02:10:31,Singapore,27,Mostly Cloudy
+2021-05-08 23:23:48,Singapore,27,Mostly Cloudy
+2021-05-08 23:20:09,Sydney,17,Cloudy
+2021-05-08 20:23:48,Singapore,28,Thunderstorms
+2021-05-08 20:20:09,Sydney,20,Cloudy
+2021-05-08 20:10:31,Singapore,28,Cloudy
+2021-05-08 17:23:48,Singapore,28,Thunderstorms
+2021-05-08 17:20:09,Sydney,22,Mostly Cloudy
+2021-05-08 14:23:48,Singapore,28,Thunderstorms
+2021-05-08 14:20:09,Sydney,24,Mostly Cloudy
+2021-05-08 14:10:30,Singapore,28,Thunderstorms
+2021-05-08 11:23:48,Singapore,28,Thunderstorms
+2021-05-08 11:20:09,Sydney,24,Mostly Cloudy
+2021-05-08 08:23:48,Singapore,27,Thunderstorms
+2021-05-08 08:20:09,Sydney,18,Mostly Sunny
+2021-05-08 08:10:31,Singapore,27,Partly Cloudy
+2021-05-08 05:23:48,Singapore,27,Thunderstorms
+2021-05-08 05:20:09,Sydney,16,Partly Cloudy
+2021-05-08 02:23:48,Singapore,27,Mostly Cloudy
+2021-05-08 02:20:09,Sydney,16,Clear
+2021-05-08 02:10:31,Singapore,27,Mostly Cloudy
+2021-05-07 23:23:48,Singapore,28,Thunderstorms
+2021-05-07 23:20:09,Sydney,18,Mostly Clear
+2021-05-07 20:23:48,Singapore,28,Thunderstorms
+2021-05-07 20:20:09,Sydney,19,Mostly Cloudy
+2021-05-07 20:10:30,Singapore,28,Thunderstorms
+2021-05-07 17:23:48,Singapore,29,Thunderstorms
+2021-05-07 17:20:09,Sydney,19,Partly Cloudy
+2021-05-07 14:23:48,Singapore,29,Mostly Cloudy
+2021-05-07 14:20:09,Sydney,21,Partly Cloudy
+2021-05-07 14:10:31,Singapore,29,Mostly Cloudy
+2021-05-07 11:23:48,Singapore,28,Cloudy
+2021-05-07 11:20:09,Sydney,21,Showers
+2021-05-07 08:23:48,Singapore,27,Cloudy
+2021-05-07 08:20:10,Sydney,20,Showers
+2021-05-07 08:10:32,Singapore,26,Cloudy
+2021-05-07 05:23:48,Singapore,26,Mostly Cloudy
+2021-05-07 05:20:09,Sydney,19,Showers
+2021-05-07 02:23:48,Singapore,27,Thunderstorms
+2021-05-07 02:20:09,Sydney,19,Showers
+2021-05-07 02:10:31,Singapore,27,Mostly Cloudy
+2021-05-06 23:23:48,Singapore,27,Thunderstorms
+2021-05-06 23:20:10,Sydney,19,Showers
+2021-05-06 20:23:48,Singapore,28,Cloudy
+2021-05-06 20:20:09,Sydney,20,Showers
+2021-05-06 20:10:30,Singapore,28,Cloudy
+2021-05-06 17:23:48,Singapore,28,Mostly Cloudy
+2021-05-06 17:20:09,Sydney,20,Showers
+2021-05-06 14:23:48,Singapore,28,Scattered Thunderstorms
+2021-05-06 14:20:09,Sydney,20,Showers
+2021-05-06 14:10:31,Singapore,28,Thunderstorms
+2021-05-06 11:23:48,Singapore,28,Scattered Thunderstorms
+2021-05-06 11:20:10,Sydney,20,Showers
+2021-05-06 08:23:48,Singapore,26,Scattered Thunderstorms
+2021-05-06 08:20:09,Sydney,19,Rain
+2021-05-06 08:10:32,Singapore,26,Thunderstorms
+2021-05-06 05:23:48,Singapore,26,Scattered Thunderstorms
+2021-05-06 05:20:09,Sydney,19,Rain
+2021-05-06 02:23:48,Singapore,27,Thunderstorms
+2021-05-06 02:20:09,Sydney,19,Showers
+2021-05-06 02:10:31,Singapore,27,Thunderstorms
+2021-05-05 23:23:48,Singapore,27,Cloudy
+2021-05-05 23:20:09,Sydney,18,Cloudy
+2021-05-05 20:23:48,Singapore,28,Thunderstorms
+2021-05-05 20:20:09,Sydney,18,Showers
+2021-05-05 20:10:31,Singapore,27,Scattered Thunderstorms
+2021-05-05 17:23:48,Singapore,28,Thunderstorms
+2021-05-05 17:20:09,Sydney,19,Mostly Cloudy
+2021-05-05 14:23:48,Singapore,28,Thunderstorms
+2021-05-05 14:20:10,Sydney,18,Showers
+2021-05-05 14:10:32,Singapore,29,Thunderstorms
+2021-05-05 11:23:48,Singapore,28,Thunderstorms
+2021-05-05 11:20:09,Sydney,17,Rain
+2021-05-05 08:23:48,Singapore,26,Thunderstorms
+2021-05-05 08:20:09,Sydney,16,Rain
+2021-05-05 08:10:31,Singapore,26,Thunderstorms
+2021-05-05 05:23:48,Singapore,26,Thunderstorms
+2021-05-05 05:20:09,Sydney,14,Rain
+2021-05-05 02:23:48,Singapore,27,Cloudy
+2021-05-05 02:20:09,Sydney,13,Showers
+2021-05-05 02:10:32,Singapore,27,Cloudy
+2021-05-04 23:23:48,Singapore,27,Thunderstorms
+2021-05-04 23:20:09,Sydney,14,Showers
+2021-05-04 20:23:48,Singapore,28,Thunderstorms
+2021-05-04 20:20:09,Sydney,14,Rain
+2021-05-04 20:10:32,Singapore,28,Thunderstorms
+2021-05-04 17:23:48,Singapore,28,Thunderstorms
+2021-05-04 17:20:09,Sydney,16,Showers
+2021-05-04 14:23:48,Singapore,29,Thunderstorms
+2021-05-04 14:20:09,Sydney,15,Showers
+2021-05-04 14:10:31,Singapore,29,Thunderstorms
+2021-05-04 11:23:48,Singapore,28,Thunderstorms
+2021-05-04 11:20:09,Sydney,16,Cloudy
+2021-05-04 08:23:48,Singapore,26,Thunderstorms
+2021-05-04 08:20:09,Sydney,17,Cloudy
+2021-05-04 08:10:30,Singapore,26,Cloudy
+2021-05-04 05:23:48,Singapore,26,Scattered Thunderstorms
+2021-05-04 05:20:09,Sydney,16,Cloudy
+2021-05-04 02:23:48,Singapore,27,Thunderstorms
+2021-05-04 02:20:09,Sydney,17,Mostly Cloudy
+2021-05-04 02:10:31,Singapore,27,Thunderstorms
+2021-05-03 23:23:48,Singapore,28,Cloudy
+2021-05-03 23:20:09,Sydney,19,Partly Cloudy
+2021-05-03 20:23:48,Singapore,28,Thunderstorms
+2021-05-03 20:20:09,Sydney,20,Mostly Cloudy
+2021-05-03 20:10:30,Singapore,28,Thunderstorms
+2021-05-03 17:23:48,Singapore,29,Thunderstorms
+2021-05-03 17:20:09,Sydney,21,Partly Cloudy
+2021-05-03 14:23:48,Singapore,29,Thunderstorms
+2021-05-03 14:20:09,Sydney,25,Sunny
+2021-05-03 14:10:32,Singapore,29,Thunderstorms
+2021-05-03 11:23:48,Singapore,28,Partly Cloudy
+2021-05-03 11:20:09,Sydney,24,Sunny
+2021-05-03 08:23:48,Singapore,27,Thunderstorms
+2021-05-03 08:20:09,Sydney,17,Partly Cloudy
+2021-05-03 08:10:31,Singapore,27,Mostly Cloudy
+2021-05-03 05:23:48,Singapore,27,Thunderstorms
+2021-05-03 05:20:09,Sydney,14,Partly Cloudy
+2021-05-03 02:23:48,Singapore,27,Mostly Cloudy
+2021-05-03 02:20:09,Sydney,16,Partly Cloudy
+2021-05-03 02:10:31,Singapore,27,Mostly Cloudy
+2021-05-02 23:23:48,Singapore,28,Thunderstorms
+2021-05-02 23:20:10,Sydney,18,Mostly Clear
+2021-05-02 20:23:48,Singapore,29,Thunderstorms
+2021-05-02 20:20:09,Sydney,19,Scattered Thunderstorms
+2021-05-02 20:10:31,Singapore,29,Thunderstorms
+2021-05-02 17:23:48,Singapore,30,Scattered Thunderstorms
+2021-05-02 17:20:09,Sydney,21,Mostly Cloudy
+2021-05-02 14:23:48,Singapore,30,Partly Cloudy
+2021-05-02 14:20:09,Sydney,23,Cloudy
+2021-05-02 14:10:31,Singapore,30,Thunderstorms
+2021-05-02 11:23:48,Singapore,28,Partly Cloudy
+2021-05-02 11:20:09,Sydney,23,Cloudy
+2021-05-02 08:23:48,Singapore,26,Mostly Sunny
+2021-05-02 08:20:09,Sydney,21,Cloudy
+2021-05-02 08:10:31,Singapore,26,Mostly Sunny
+2021-05-02 05:23:48,Singapore,27,Thunderstorms
+2021-05-02 05:20:09,Sydney,15,Cloudy
+2021-05-02 02:23:48,Singapore,27,Mostly Cloudy
+2021-05-02 02:20:09,Sydney,16,Cloudy
+2021-05-02 02:10:31,Singapore,27,Mostly Cloudy
+2021-05-01 23:23:48,Singapore,28,Thunderstorms
+2021-05-01 23:20:10,Sydney,18,Mostly Clear
+2021-05-01 20:10:31,Singapore,29,Thunderstorms
+2021-05-01 14:10:31,Singapore,30,Thunderstorms
+2021-05-01 08:10:31,Singapore,26,Cloudy
+2021-05-01 02:10:30,Singapore,27,Cloudy
+2021-04-30 20:10:30,Singapore,28,Thunderstorms
+2021-04-30 14:10:30,Singapore,28,Thunderstorms
+2021-04-30 08:10:30,Singapore,26,Thunderstorms
+2021-04-30 02:10:30,Singapore,26,Mostly Cloudy
+2021-04-29 20:10:31,Singapore,28,Thunderstorms
+2021-04-29 14:10:31,Singapore,29,Thunderstorms
+2021-04-29 08:10:30,Singapore,27,Cloudy
+2021-04-29 02:10:30,Singapore,27,Mostly Cloudy
+2021-04-28 20:10:30,Singapore,28,Thunderstorms
+2021-04-28 14:10:31,Singapore,28,Thunderstorms
+2021-04-28 08:10:30,Singapore,26,Cloudy
+2021-04-28 02:10:31,Singapore,27,Mostly Cloudy
+2021-04-27 20:10:30,Singapore,28,Thunderstorms
+2021-04-27 14:10:30,Singapore,29,Thunderstorms
+2021-04-27 08:10:30,Singapore,27,Partly Cloudy
+2021-04-27 02:10:31,Singapore,27,Thunderstorms
+2021-04-26 20:10:30,Singapore,28,Thunderstorms
+2021-04-26 14:10:30,Singapore,28,Thunderstorms
+2021-04-26 08:10:30,Singapore,27,Thunderstorms
+2021-04-26 02:10:30,Singapore,28,Partly Cloudy
+2021-04-25 20:10:30,Singapore,29,Mostly Sunny
+2021-04-25 14:10:31,Singapore,29,Partly Cloudy
+2021-04-25 08:10:30,Singapore,27,Mostly Cloudy
+2021-04-25 02:10:30,Singapore,27,Cloudy
+2021-04-24 20:10:31,Singapore,27,Cloudy
+2021-04-24 14:10:30,Singapore,28,Scattered Thunderstorms
+2021-04-24 08:10:31,Singapore,27,Thunderstorms
+2021-04-24 02:10:31,Singapore,27,Mostly Cloudy
+2021-04-23 20:10:30,Singapore,28,Mostly Cloudy
+2021-04-23 14:10:30,Singapore,28,Thunderstorms
+2021-04-23 08:10:31,Singapore,27,Cloudy
+2021-04-23 02:10:31,Singapore,26,Thunderstorms
+2021-04-22 20:10:30,Singapore,27,Thunderstorms
+2021-04-22 14:10:30,Singapore,28,Thunderstorms
+2021-04-22 08:10:30,Singapore,26,Thunderstorms
+2021-04-22 02:10:30,Singapore,27,Thunderstorms
+2021-04-21 20:10:30,Singapore,28,Thunderstorms
+2021-04-21 14:10:31,Singapore,29,Thunderstorms
+2021-04-21 08:10:31,Singapore,27,Partly Cloudy
+2021-04-21 02:10:30,Singapore,27,Partly Cloudy
+2021-04-20 20:10:30,Singapore,29,Thunderstorms
+2021-04-20 14:10:31,Singapore,29,Thunderstorms
+2021-04-20 08:10:30,Singapore,26,Partly Cloudy
+2021-04-20 02:10:30,Singapore,27,Mostly Cloudy
+2021-04-19 20:10:31,Singapore,28,Partly Cloudy
+2021-04-19 14:10:30,Singapore,28,Thunderstorms
+2021-04-19 08:10:30,Singapore,26,Partly Cloudy
+2021-04-19 02:10:30,Singapore,26,Mostly Clear
+2021-04-18 20:10:30,Singapore,28,Thunderstorms
+2021-04-18 14:10:30,Singapore,29,Thunderstorms
+2021-04-18 08:10:31,Singapore,26,Cloudy
+2021-04-18 02:10:30,Singapore,27,Cloudy
+2021-04-17 20:10:30,Singapore,27,Thunderstorms
+2021-04-17 14:10:31,Singapore,28,Thunderstorms
+2021-04-17 08:10:36,Singapore,26,Thunderstorms
+2021-04-17 02:10:30,Singapore,27,Cloudy
+2021-04-16 20:10:31,Singapore,28,Cloudy
+2021-04-16 14:10:30,Singapore,28,Thunderstorms
+2021-04-16 08:10:31,Singapore,26,Thunderstorms
+2021-04-16 02:10:30,Singapore,27,Cloudy
+2021-04-15 20:10:30,Singapore,27,Thunderstorms
+2021-04-15 14:10:31,Singapore,29,Thunderstorms
+2021-04-15 08:10:31,Singapore,26,Mostly Cloudy
+2021-04-15 02:10:30,Singapore,27,Partly Cloudy
+2021-04-14 20:10:30,Singapore,28,Thunderstorms
+2021-04-14 14:10:30,Singapore,29,Thunderstorms
+2021-04-14 08:10:30,Singapore,27,Mostly Cloudy
+2021-04-14 02:10:31,Singapore,27,Cloudy
